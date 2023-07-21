@@ -9,5 +9,8 @@
       "github": "msgilling"
     }
   ],
-  "students": []
+  "students": [{
+    "name": "Charlie",
+    "github": "EndlessEndless1999"
+  }]
 }
